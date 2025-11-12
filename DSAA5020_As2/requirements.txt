@@ -1,0 +1,15 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+wordcloud
+nltk
+beautifulsoup4
+lxml
+requests
+tensorflow==2.*
+gensim
+transformers
+datasets
+torch
+joblib
