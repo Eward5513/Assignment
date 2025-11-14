@@ -21,7 +21,7 @@ This folder contains a ready-to-run **Jupyter notebook** and scaffolding for an 
 4. If you have no internet/GPU, skip transformer/BiLSTM sections and run NB+TF-IDF baseline.
 
 ## Scraping
-The notebook includes scrapers for Yahoo Finance ticker news and a minimal EastMoney keyword demo. These are brittle by nature; if they fail, save headlines to CSV and proceed.
+The notebook includes a Google News RSS–based scraper for ticker news. This may break if providers change; if it fails, save headlines to CSV and proceed.
 
 ## Notes
 - Your grade emphasizes **data prep, EDA, and rationale** over raw accuracy. Write thoughtful comments in the indicated sections.
